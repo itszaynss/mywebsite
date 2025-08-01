@@ -1,0 +1,18 @@
+*{padding: 0;margin: 0;}
+.container {height: 100vh;
+             width: 100vw;
+             color: #444;
+             background:#F4C2C2;
+             text-align: center;}
+.bebbi {padding-top: 23%
+}
+h2{font-size: 72px;margin-bottom: 30px;}
+.bebbi span{color: #E6E6FA;}
+.bebbi a{text-decoration: none;
+    background: #eee;
+    padding: 5px;
+    margin: 5px 10px;
+    border: 3px solid #ddd;
+    border-radius: 10px;
+}
+#clickme {color:#000000}
